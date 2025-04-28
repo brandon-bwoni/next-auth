@@ -7,6 +7,8 @@ export const LoginForm = () => {
       backButtonLabel="Don't have an account?"
       backButtonHref="/auth/register"
       showSocial
-    ></CardWrapper>
+    >
+      Login Form
+    </CardWrapper>
   );
 };
